@@ -4,4 +4,4 @@
 
 ### *Table of Contents*
 
-**1. [Responsive Web Design and Floats](google.com)**
+**1. [Responsive Web Design and Floats](https://github.com/TJSOmega/reading-notes301/blob/main/RESPONSIVE-WEB-DESIGN-and-FLOATS.md)**
