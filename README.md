@@ -10,4 +10,4 @@
 
 **3. [Under Construction](https://github.com/TJSOmega/reading-notes301/blob/main/RESPONSIVE-WEB-DESIGN-and-FLOATS.md)**
 
-**4. [CSS GRID](https://github.com/TJSOmega/reading-notes301/blob/main/RESPONSIVE-WEB-DESIGN-and-FLOATS.md)**
+**4. [CSS GRID](https://github.com/TJSOmega/reading-notes301/blob/main/css-grid.md)**
